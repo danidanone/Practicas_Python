@@ -1,0 +1,26 @@
+categoria,precio_medio,precio_min,precio_max,num_libros,rating_medio
+Add a comment,19.09,19.09,19.09,1,1.0
+Art,44.18,44.18,44.18,1,4.0
+Business,33.34,33.34,33.34,1,4.0
+Childrens,49.22,36.89,56.13,3,1.67
+Contemporary,31.77,31.77,31.77,1,1.0
+Default,25.92,13.99,53.13,7,2.86
+Fantasy,18.78,18.78,18.78,1,3.0
+Fiction,41.31,17.27,50.27,4,4.0
+Food and Drink,43.46,30.52,56.41,2,2.0
+Historical Fiction,53.74,53.74,53.74,1,1.0
+History,39.88,25.52,54.23,2,3.0
+Music,43.2,35.02,57.25,3,3.33
+Mystery,41.32,19.63,56.5,3,3.0
+New Adult,45.07,45.07,45.07,1,2.0
+Nonfiction,32.7,23.11,44.18,6,3.67
+Philosophy,15.94,15.94,15.94,1,5.0
+Poetry,36.24,14.27,57.31,7,2.57
+Politics,51.33,51.33,51.33,1,2.0
+Romance,29.9,25.27,34.53,2,5.0
+Science Fiction,37.59,37.59,37.59,1,1.0
+Sequential Art,29.35,16.28,52.29,3,3.33
+Spirituality,17.66,17.66,17.66,1,5.0
+Thriller,29.63,12.84,52.22,3,3.33
+Travel,45.17,45.17,45.17,1,2.0
+Young Adult,28.44,17.46,45.22,3,3.0
